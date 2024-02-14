@@ -1,0 +1,11 @@
+table.katon-table-container {
+    vertical-align: middle;
+    
+    thead tr th div:last-child {
+        min-height: 27px;
+    }
+}
+
+.katon-search-icon {
+    line-height: 28px !important;
+}
